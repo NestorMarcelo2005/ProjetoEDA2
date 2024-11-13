@@ -1,0 +1,3 @@
+C:/Users/nelso/OneDrive/Ambiente de Trabalho/Grupo6/project2/cmake-build-debug/CMakeFiles/project2.dir
+C:/Users/nelso/OneDrive/Ambiente de Trabalho/Grupo6/project2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/nelso/OneDrive/Ambiente de Trabalho/Grupo6/project2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
